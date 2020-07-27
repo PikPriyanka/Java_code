@@ -1,0 +1,1 @@
+SELECT employee_id AS Emp # , last_name AS Employee , job_id AS Job , hiredate AS Hire Date FROM EMPLOYEES

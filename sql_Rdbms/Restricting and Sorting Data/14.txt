@@ -1,0 +1,1 @@
+SELECT last_name, job, salary FROM EMPLOYEES WHERE job IN('sales_representative' , 'stock_clerk') AND salary NOT IN(2500,3500,7000)

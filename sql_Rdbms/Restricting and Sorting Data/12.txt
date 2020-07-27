@@ -1,0 +1,1 @@
+SELECT last_name FROM EMPLOYEES WHERE name LIKE '__a%'

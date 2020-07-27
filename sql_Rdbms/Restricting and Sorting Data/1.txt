@@ -1,0 +1,1 @@
+SELECT last_name , salary FROM EMPLOYEES WHERE salary>12000

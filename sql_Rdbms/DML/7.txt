@@ -1,0 +1,1 @@
+UPDATE EMPLOYEES SET salary=1.1*salary WHERE department_id=90

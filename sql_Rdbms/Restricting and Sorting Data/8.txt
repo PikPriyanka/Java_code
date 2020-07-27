@@ -1,0 +1,1 @@
+SELECT last_name, job_title FROM EMPLOYEES WHERE manager=NULL
